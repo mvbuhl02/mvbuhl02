@@ -1,5 +1,5 @@
 <div>
-<img src="pixels-neon.gif" width="546px" align="right">
+<img src="pixels-neon.gif" width="586px" align="right">
 
   ### desenvolvedor apaixonado por tecnologia.
 Olá, sou um desenvolvedor web full-stack habilidoso em:
