@@ -1,7 +1,7 @@
 <div>
-<img src="pixels-neon.gif" width="506px" align="right">
+<img src="pixels-neon.gif" width="486px" align="right">
   
-  ### desenvolvedor apaixonado por tecnologia.
+  ### desenvolvedor apaixonado por Web.
 Olá, sou um  web full-stack habilidoso em:
 - PHP
 - JavaScript
