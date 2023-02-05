@@ -1,5 +1,5 @@
 <div>
-<img src="pixels-neon.gif" width="586px" align="right">
+<img src="pixels-neon.gif" width="526px" align="right">
   
   ### paixonado por programação.
 Olá, sou um  web full-stack habilidoso em:
