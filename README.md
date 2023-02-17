@@ -2,7 +2,7 @@
 <img src="pixels-neon.gif" width="526px" align="right">
   
   ### paixonado por programação.
-Olá, sou um  web full-stack habilidoso em:
+Olá, sou um dev habilidoso em:
 - PHP
 - JavaScript
 - HTML
