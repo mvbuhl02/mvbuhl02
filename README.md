@@ -1,8 +1,8 @@
 <div>
 <img src="pixels-neon.gif" width="526px" align="right">
   
-  ### paixonado por programação.
-Olá, sou um dev habilidoso em:
+  ### I like programming.
+Hello, I'm a dev skilled in:
 - PHP
 - JavaScript
 - HTML
@@ -15,9 +15,9 @@ Olá, sou um dev habilidoso em:
 - ORM
 - Deploy
  
-Com  experiência na criação de aplicações web completas e integradas, desde a camada de front-end até a camada de banco de dados. Utilizo Laravel como framework PHP para desenvolver recursos altamente escaláveis e seguros, enquanto meu conhecimento em orientação a objetos e em padrões de arquitetura de software garante soluções organizadas e fáceis de manter.
+With experience in creating complete and integrated web applications, from the front-end layer to the database layer. I use Laravel as a PHP framework to develop highly scalable and secure features, while my knowledge of object orientation and software architecture patterns ensures organized and maintainable solutions.
  
-Estou animado para aplicar minhas habilidades e experiência em próximos projetos.
+I'm excited to apply my skills and experience to upcoming projects.
 
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
