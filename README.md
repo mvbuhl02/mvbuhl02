@@ -13,6 +13,7 @@ Hello, I'm a dev skilled in:
 - POO
 - MVC
 - ORM
+- Composer
 
  
 With experience in creating complete and integrated web applications, from the front-end layer to the database layer. I use Laravel as a PHP framework to develop highly scalable and secure features, while my knowledge of object orientation and software architecture patterns ensures organized and maintainable solutions.
